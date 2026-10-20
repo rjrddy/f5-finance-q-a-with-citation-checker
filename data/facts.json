@@ -1,0 +1,1694 @@
+[
+  {
+    "concept": "us-gaap:AccountsPayableCurrent",
+    "context": "2024-09-28-USD",
+    "text": "68960000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:AccountsReceivableNetCurrent",
+    "context": "2024-09-28-USD",
+    "text": "33410000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:AccruedIncomeTaxesCurrent",
+    "context": "2024-09-28-USD",
+    "text": "26601000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:AccruedIncomeTaxesNoncurrent",
+    "context": "2024-09-28-USD",
+    "text": "9254000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment",
+    "context": "2024-09-28-USD",
+    "text": "73448000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+    "context": "2024-09-28-USD",
+    "text": "-7172000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:AllocatedShareBasedCompensationExpense",
+    "context": "2024-09-28-USD",
+    "text": "11688000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:Assets",
+    "context": "2024-09-28-USD",
+    "text": "364980000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:AssetsCurrent",
+    "context": "2024-09-28-USD",
+    "text": "152987000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:AssetsNoncurrent",
+    "context": "2024-09-28-USD",
+    "text": "211993000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+    "context": "2024-09-28-USD",
+    "text": "29943000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+    "context": "2024-09-28-USD",
+    "text": "29943000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect",
+    "context": "2024-09-28-USD",
+    "text": "-794000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:CommercialPaper",
+    "context": "2024-09-28-USD",
+    "text": "9967000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:CommonStockDividendsPerShareDeclared",
+    "context": "2024-09-28-USD/shares",
+    "text": "0.98",
+    "scale": "0",
+    "unit": "USD/shares",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:CommonStockParOrStatedValuePerShare",
+    "context": "2024-09-28-USD/shares",
+    "text": "1e-05",
+    "scale": "0",
+    "unit": "USD/shares",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:CommonStockSharesAuthorized",
+    "context": "2024-09-28-shares",
+    "text": "50400000000",
+    "scale": "0",
+    "unit": "shares",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:CommonStockSharesIssued",
+    "context": "2024-09-28-shares",
+    "text": "15116786000",
+    "scale": "0",
+    "unit": "shares",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:CommonStockSharesOutstanding",
+    "context": "2024-09-28-shares",
+    "text": "15116786000",
+    "scale": "0",
+    "unit": "shares",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:CommonStocksIncludingAdditionalPaidInCapital",
+    "context": "2024-09-28-USD",
+    "text": "83276000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:ComprehensiveIncomeNetOfTax",
+    "context": "2024-09-28-USD",
+    "text": "98016000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:ContractWithCustomerLiability",
+    "context": "2024-09-28-USD",
+    "text": "12800000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:ContractWithCustomerLiabilityCurrent",
+    "context": "2024-09-28-USD",
+    "text": "8249000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:ContractWithCustomerLiabilityRevenueRecognized",
+    "context": "2024-09-28-USD",
+    "text": "7700000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:CostOfGoodsAndServicesSold",
+    "context": "2024-09-28-USD",
+    "text": "210352000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:CurrentFederalTaxExpenseBenefit",
+    "context": "2024-09-28-USD",
+    "text": "5571000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:CurrentForeignTaxExpenseBenefit",
+    "context": "2024-09-28-USD",
+    "text": "25483000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:CurrentStateAndLocalTaxExpenseBenefit",
+    "context": "2024-09-28-USD",
+    "text": "1726000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DebtInstrumentCarryingAmount",
+    "context": "2024-09-28-USD",
+    "text": "97341000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DebtInstrumentUnamortizedDiscountPremiumAndDebtIssuanceCostsNet",
+    "context": "2024-09-28-USD",
+    "text": "321000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DebtSecuritiesAvailableForSaleRestricted",
+    "context": "2023-09-30-USD",
+    "text": "13800000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredFederalIncomeTaxExpenseBenefit",
+    "context": "2024-09-28-USD",
+    "text": "-3080000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredForeignIncomeTaxExpenseBenefit",
+    "context": "2024-09-28-USD",
+    "text": "347000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredIncomeTaxAssetsNet",
+    "context": "2024-09-28-USD",
+    "text": "19499000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredIncomeTaxLiabilities",
+    "context": "2024-09-28-USD",
+    "text": "6805000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredStateAndLocalIncomeTaxExpenseBenefit",
+    "context": "2024-09-28-USD",
+    "text": "-298000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredTaxAssetsDeferredIncome",
+    "context": "2024-09-28-USD",
+    "text": "3413000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredTaxAssetsGross",
+    "context": "2024-09-28-USD",
+    "text": "34873000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredTaxAssetsLiabilitiesNet",
+    "context": "2024-09-28-USD",
+    "text": "19202000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredTaxAssetsNet",
+    "context": "2024-09-28-USD",
+    "text": "26007000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredTaxAssetsOther",
+    "context": "2024-09-28-USD",
+    "text": "2168000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredTaxAssetsOtherComprehensiveLoss",
+    "context": "2024-09-28-USD",
+    "text": "1173000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredTaxAssetsTaxCreditCarryforwards",
+    "context": "2024-09-28-USD",
+    "text": "8856000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredTaxAssetsTaxCreditCarryforwardsForeign",
+    "context": "2024-09-28-USD",
+    "text": "5100000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredTaxAssetsTaxCreditCarryforwardsResearch",
+    "context": "2024-09-28-USD",
+    "text": "3600000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredTaxAssetsTaxDeferredExpenseReservesAndAccruals",
+    "context": "2024-09-28-USD",
+    "text": "6114000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredTaxAssetsValuationAllowance",
+    "context": "2024-09-28-USD",
+    "text": "8866000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredTaxLiabilitiesLeasingArrangements",
+    "context": "2024-09-28-USD",
+    "text": "2125000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredTaxLiabilitiesOther",
+    "context": "2024-09-28-USD",
+    "text": "455000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredTaxLiabilitiesOtherComprehensiveIncome",
+    "context": "2024-09-28-USD",
+    "text": "0",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DeferredTaxLiabilitiesPropertyPlantAndEquipment",
+    "context": "2024-09-28-USD",
+    "text": "2551000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:Depreciation",
+    "context": "2024-09-28-USD",
+    "text": "8200000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:DepreciationDepletionAndAmortization",
+    "context": "2024-09-28-USD",
+    "text": "11445000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:EarningsPerShareBasic",
+    "context": "2024-09-28-USD/shares",
+    "text": "6.11",
+    "scale": "0",
+    "unit": "USD/shares",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:EarningsPerShareDiluted",
+    "context": "2024-09-28-USD/shares",
+    "text": "6.08",
+    "scale": "0",
+    "unit": "USD/shares",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:EffectiveIncomeTaxRateContinuingOperations",
+    "context": "2024-09-28-pure",
+    "text": "0.241",
+    "scale": "0",
+    "unit": "pure",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:EffectiveIncomeTaxRateReconciliationAtFederalStatutoryIncomeTaxRate",
+    "context": "2024-09-28-pure",
+    "text": "0.21",
+    "scale": "0",
+    "unit": "pure",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:EffectiveIncomeTaxRateReconciliationShareBasedCompensationExcessTaxBenefitAmount",
+    "context": "2024-09-28-USD",
+    "text": "-893000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense",
+    "context": "2024-09-28-USD",
+    "text": "3350000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:FederalIncomeTaxExpenseBenefitContinuingOperations",
+    "context": "2024-09-28-USD",
+    "text": "2491000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:FinanceLeaseLiability",
+    "context": "2024-09-28-USD",
+    "text": "896000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:FinanceLeaseLiabilityCurrent",
+    "context": "2024-09-28-USD",
+    "text": "144000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:FinanceLeaseLiabilityNoncurrent",
+    "context": "2024-09-28-USD",
+    "text": "752000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:FinanceLeaseLiabilityPaymentsDue",
+    "context": "2024-09-28-USD",
+    "text": "1272000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:FinanceLeaseLiabilityPaymentsDueAfterYearFive",
+    "context": "2024-09-28-USD",
+    "text": "837000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:FinanceLeaseLiabilityPaymentsDueNextTwelveMonths",
+    "context": "2024-09-28-USD",
+    "text": "171000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:FinanceLeaseLiabilityPaymentsDueYearFive",
+    "context": "2024-09-28-USD",
+    "text": "36000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:FinanceLeaseLiabilityPaymentsDueYearFour",
+    "context": "2024-09-28-USD",
+    "text": "38000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:FinanceLeaseLiabilityPaymentsDueYearThree",
+    "context": "2024-09-28-USD",
+    "text": "59000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:FinanceLeaseLiabilityPaymentsDueYearTwo",
+    "context": "2024-09-28-USD",
+    "text": "131000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:FinanceLeaseLiabilityUndiscountedExcessAmount",
+    "context": "2024-09-28-USD",
+    "text": "376000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:FinanceLeaseRightOfUseAsset",
+    "context": "2024-09-28-USD",
+    "text": "1069000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:ForeignIncomeTaxExpenseBenefitContinuingOperations",
+    "context": "2024-09-28-USD",
+    "text": "25830000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:GrossProfit",
+    "context": "2024-09-28-USD",
+    "text": "180683000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:HedgedAssetFairValueHedge",
+    "context": "2024-09-28-USD",
+    "text": "0",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:HedgedLiabilityFairValueHedge",
+    "context": "2024-09-28-USD",
+    "text": "13505000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+    "context": "2024-09-28-USD",
+    "text": "123485000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:IncomeLossFromContinuingOperationsBeforeIncomeTaxesForeign",
+    "context": "2024-09-28-USD",
+    "text": "77300000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:IncomeTaxExpenseBenefit",
+    "context": "2024-09-28-USD",
+    "text": "29749000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:IncomeTaxReconciliationForeignIncomeTaxRateDifferential",
+    "context": "2024-09-28-USD",
+    "text": "-5311000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:IncomeTaxReconciliationIncomeTaxExpenseBenefitAtFederalStatutoryIncomeTaxRate",
+    "context": "2024-09-28-USD",
+    "text": "25932000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:IncomeTaxReconciliationOtherAdjustments",
+    "context": "2024-09-28-USD",
+    "text": "10000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:IncomeTaxReconciliationStateAndLocalIncomeTaxes",
+    "context": "2024-09-28-USD",
+    "text": "1162000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:IncomeTaxReconciliationTaxCreditsResearch",
+    "context": "2024-09-28-USD",
+    "text": "1397000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:IncomeTaxesPaidNet",
+    "context": "2024-09-28-USD",
+    "text": "26102000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:IncreaseDecreaseInAccountsPayable",
+    "context": "2024-09-28-USD",
+    "text": "6020000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:IncreaseDecreaseInAccountsReceivable",
+    "context": "2024-09-28-USD",
+    "text": "3788000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:IncreaseDecreaseInInventories",
+    "context": "2024-09-28-USD",
+    "text": "1046000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:IncreaseDecreaseInOtherOperatingAssets",
+    "context": "2024-09-28-USD",
+    "text": "11731000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:IncreaseDecreaseInOtherOperatingLiabilities",
+    "context": "2024-09-28-USD",
+    "text": "15552000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:IncreaseDecreaseInOtherReceivables",
+    "context": "2024-09-28-USD",
+    "text": "1356000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:IncrementalCommonSharesAttributableToShareBasedPaymentArrangements",
+    "context": "2024-09-28-shares",
+    "text": "64312000",
+    "scale": "0",
+    "unit": "shares",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:InventoryNet",
+    "context": "2024-09-28-USD",
+    "text": "7286000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LesseeOperatingLeaseLiabilityPaymentsDue",
+    "context": "2024-09-28-USD",
+    "text": "13518000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LesseeOperatingLeaseLiabilityPaymentsDueAfterYearFive",
+    "context": "2024-09-28-USD",
+    "text": "5563000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LesseeOperatingLeaseLiabilityPaymentsDueNextTwelveMonths",
+    "context": "2024-09-28-USD",
+    "text": "1820000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LesseeOperatingLeaseLiabilityPaymentsDueYearFive",
+    "context": "2024-09-28-USD",
+    "text": "1187000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LesseeOperatingLeaseLiabilityPaymentsDueYearFour",
+    "context": "2024-09-28-USD",
+    "text": "1360000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LesseeOperatingLeaseLiabilityPaymentsDueYearThree",
+    "context": "2024-09-28-USD",
+    "text": "1674000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LesseeOperatingLeaseLiabilityPaymentsDueYearTwo",
+    "context": "2024-09-28-USD",
+    "text": "1914000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LesseeOperatingLeaseLiabilityUndiscountedExcessAmount",
+    "context": "2024-09-28-USD",
+    "text": "1984000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:Liabilities",
+    "context": "2024-09-28-USD",
+    "text": "308030000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LiabilitiesAndStockholdersEquity",
+    "context": "2024-09-28-USD",
+    "text": "364980000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LiabilitiesCurrent",
+    "context": "2024-09-28-USD",
+    "text": "176392000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LiabilitiesNoncurrent",
+    "context": "2024-09-28-USD",
+    "text": "131638000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LongTermDebt",
+    "context": "2024-09-28-USD",
+    "text": "96662000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LongTermDebtCurrent",
+    "context": "2024-09-28-USD",
+    "text": "10912000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LongTermDebtMaturitiesRepaymentsOfPrincipalAfterYearFive",
+    "context": "2024-09-28-USD",
+    "text": "51180000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LongTermDebtMaturitiesRepaymentsOfPrincipalInNextTwelveMonths",
+    "context": "2024-09-28-USD",
+    "text": "10930000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFive",
+    "context": "2024-09-28-USD",
+    "text": "5153000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFour",
+    "context": "2024-09-28-USD",
+    "text": "7800000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LongTermDebtMaturitiesRepaymentsOfPrincipalInYearThree",
+    "context": "2024-09-28-USD",
+    "text": "9936000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LongTermDebtMaturitiesRepaymentsOfPrincipalInYearTwo",
+    "context": "2024-09-28-USD",
+    "text": "12342000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:LongTermDebtNoncurrent",
+    "context": "2024-09-28-USD",
+    "text": "85750000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:MarketableSecuritiesCurrent",
+    "context": "2024-09-28-USD",
+    "text": "35228000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:MarketableSecuritiesNoncurrent",
+    "context": "2024-09-28-USD",
+    "text": "91479000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:NetCashProvidedByUsedInFinancingActivities",
+    "context": "2024-09-28-USD",
+    "text": "-121983000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:NetCashProvidedByUsedInInvestingActivities",
+    "context": "2024-09-28-USD",
+    "text": "2935000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:NetCashProvidedByUsedInOperatingActivities",
+    "context": "2024-09-28-USD",
+    "text": "118254000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:NetIncomeLoss",
+    "context": "2024-09-28-USD",
+    "text": "93736000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:NoncurrentAssets",
+    "context": "2024-09-28-USD",
+    "text": "45680000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:NonoperatingIncomeExpense",
+    "context": "2024-09-28-USD",
+    "text": "269000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:NontradeReceivablesCurrent",
+    "context": "2024-09-28-USD",
+    "text": "32833000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OperatingExpenses",
+    "context": "2024-09-28-USD",
+    "text": "57467000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OperatingIncomeLoss",
+    "context": "2024-09-28-USD",
+    "text": "123216000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OperatingLeaseCost",
+    "context": "2024-09-28-USD",
+    "text": "2000000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OperatingLeaseLiability",
+    "context": "2024-09-28-USD",
+    "text": "11534000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OperatingLeaseLiabilityCurrent",
+    "context": "2024-09-28-USD",
+    "text": "1488000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OperatingLeaseLiabilityNoncurrent",
+    "context": "2024-09-28-USD",
+    "text": "10046000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OperatingLeasePayments",
+    "context": "2024-09-28-USD",
+    "text": "1900000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OperatingLeaseRightOfUseAsset",
+    "context": "2024-09-28-USD",
+    "text": "10234000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OtherAccruedLiabilitiesCurrent",
+    "context": "2024-09-28-USD",
+    "text": "51703000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OtherAccruedLiabilitiesNoncurrent",
+    "context": "2024-09-28-USD",
+    "text": "36634000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OtherAssetsCurrent",
+    "context": "2024-09-28-USD",
+    "text": "14287000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OtherAssetsMiscellaneousNoncurrent",
+    "context": "2024-09-28-USD",
+    "text": "55335000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OtherAssetsNoncurrent",
+    "context": "2024-09-28-USD",
+    "text": "74834000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax",
+    "context": "2024-09-28-USD",
+    "text": "6054000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax",
+    "context": "2024-09-28-USD",
+    "text": "395000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent",
+    "context": "2024-09-28-USD",
+    "text": "4280000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+    "context": "2024-09-28-USD",
+    "text": "-204000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax",
+    "context": "2024-09-28-USD",
+    "text": "5850000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OtherLiabilitiesCurrent",
+    "context": "2024-09-28-USD",
+    "text": "78304000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OtherLiabilitiesNoncurrent",
+    "context": "2024-09-28-USD",
+    "text": "45888000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:OtherNoncashIncomeExpense",
+    "context": "2024-09-28-USD",
+    "text": "2266000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:PaymentsForProceedsFromOtherInvestingActivities",
+    "context": "2024-09-28-USD",
+    "text": "1308000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:PaymentsForRepurchaseOfCommonStock",
+    "context": "2024-09-28-USD",
+    "text": "94949000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:PaymentsOfDividends",
+    "context": "2024-09-28-USD",
+    "text": "15234000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:PaymentsRelatedToTaxWithholdingForShareBasedCompensation",
+    "context": "2024-09-28-USD",
+    "text": "5441000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:PaymentsToAcquireAvailableForSaleSecuritiesDebt",
+    "context": "2024-09-28-USD",
+    "text": "48656000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+    "context": "2024-09-28-USD",
+    "text": "9447000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:ProceedsFromIssuanceOfLongTermDebt",
+    "context": "2024-09-28-USD",
+    "text": "0",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities",
+    "context": "2024-09-28-USD",
+    "text": "51211000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:ProceedsFromPaymentsForOtherFinancingActivities",
+    "context": "2024-09-28-USD",
+    "text": "-361000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:ProceedsFromRepaymentsOfCommercialPaper",
+    "context": "2024-09-28-USD",
+    "text": "3960000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:ProceedsFromRepaymentsOfShortTermDebtMaturingInMoreThanThreeMonths",
+    "context": "2024-09-28-USD",
+    "text": "0",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:ProceedsFromRepaymentsOfShortTermDebtMaturingInThreeMonthsOrLess",
+    "context": "2024-09-28-USD",
+    "text": "3960000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:ProceedsFromSaleOfAvailableForSaleSecuritiesDebt",
+    "context": "2024-09-28-USD",
+    "text": "11135000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:ProceedsFromShortTermDebtMaturingInMoreThanThreeMonths",
+    "context": "2024-09-28-USD",
+    "text": "0",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:PropertyPlantAndEquipmentGross",
+    "context": "2024-09-28-USD",
+    "text": "119128000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:PropertyPlantAndEquipmentNet",
+    "context": "2024-09-28-USD",
+    "text": "45680000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:RepaymentsOfLongTermDebt",
+    "context": "2024-09-28-USD",
+    "text": "9958000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:RepaymentsOfShortTermDebtMaturingInMoreThanThreeMonths",
+    "context": "2024-09-28-USD",
+    "text": "0",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:ResearchAndDevelopmentExpense",
+    "context": "2024-09-28-USD",
+    "text": "31370000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:RetainedEarningsAccumulatedDeficit",
+    "context": "2024-09-28-USD",
+    "text": "-19154000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+    "context": "2024-09-28-USD",
+    "text": "391035000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:SellingGeneralAndAdministrativeExpense",
+    "context": "2024-09-28-USD",
+    "text": "26097000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:ShareBasedCompensation",
+    "context": "2024-09-28-USD",
+    "text": "11688000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:StateAndLocalIncomeTaxExpenseBenefitContinuingOperations",
+    "context": "2024-09-28-USD",
+    "text": "1428000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:StockRepurchasedAndRetiredDuringPeriodShares",
+    "context": "2024-09-28-shares",
+    "text": "499000000",
+    "scale": "0",
+    "unit": "shares",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:StockRepurchasedAndRetiredDuringPeriodValue",
+    "context": "2024-09-28-USD",
+    "text": "95000000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:StockholdersEquity",
+    "context": "2024-09-28-USD",
+    "text": "56950000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:UnrecognizedTaxBenefits",
+    "context": "2024-09-28-USD",
+    "text": "22038000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:UnrecognizedTaxBenefitsDecreasesResultingFromPriorPeriodTaxPositions",
+    "context": "2024-09-28-USD",
+    "text": "386000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:UnrecognizedTaxBenefitsDecreasesResultingFromSettlementsWithTaxingAuthorities",
+    "context": "2024-09-28-USD",
+    "text": "1070000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:UnrecognizedTaxBenefitsIncreasesResultingFromCurrentPeriodTaxPositions",
+    "context": "2024-09-28-USD",
+    "text": "2542000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:UnrecognizedTaxBenefitsIncreasesResultingFromPriorPeriodTaxPositions",
+    "context": "2024-09-28-USD",
+    "text": "1727000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:UnrecognizedTaxBenefitsReductionsResultingFromLapseOfApplicableStatuteOfLimitations",
+    "context": "2024-09-28-USD",
+    "text": "229000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:UnrecognizedTaxBenefitsThatWouldImpactEffectiveTaxRate",
+    "context": "2024-09-28-USD",
+    "text": "10800000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:UnrecordedUnconditionalPurchaseObligationBalanceOnFifthAnniversary",
+    "context": "2024-09-28-USD",
+    "text": "633000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:UnrecordedUnconditionalPurchaseObligationBalanceOnFirstAnniversary",
+    "context": "2024-09-28-USD",
+    "text": "3206000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:UnrecordedUnconditionalPurchaseObligationBalanceOnFourthAnniversary",
+    "context": "2024-09-28-USD",
+    "text": "3121000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:UnrecordedUnconditionalPurchaseObligationBalanceOnSecondAnniversary",
+    "context": "2024-09-28-USD",
+    "text": "2440000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:UnrecordedUnconditionalPurchaseObligationBalanceOnThirdAnniversary",
+    "context": "2024-09-28-USD",
+    "text": "1156000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:UnrecordedUnconditionalPurchaseObligationBalanceSheetAmount",
+    "context": "2024-09-28-USD",
+    "text": "11226000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:UnrecordedUnconditionalPurchaseObligationDueAfterFiveYears",
+    "context": "2024-09-28-USD",
+    "text": "670000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:VariableLeaseCost",
+    "context": "2024-09-28-USD",
+    "text": "13800000000",
+    "scale": "0",
+    "unit": "USD",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:WeightedAverageNumberOfDilutedSharesOutstanding",
+    "context": "2024-09-28-shares",
+    "text": "15408095000",
+    "scale": "0",
+    "unit": "shares",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  },
+  {
+    "concept": "us-gaap:WeightedAverageNumberOfSharesOutstandingBasic",
+    "context": "2024-09-28-shares",
+    "text": "15343783000",
+    "scale": "0",
+    "unit": "shares",
+    "accession": "0000320193-24-000123",
+    "filed": "2024-11-01"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320193.json",
+  "sha256": "73a86c6aedc31f77cac2ea4df5f80f0b3bd7e6eb58bb4e01444fbedf3afb9c43",
+  "note": "SEC companyfacts; filtered to public 10-K facts filed 2024-11-01. Values are as reported in the API."
+}
