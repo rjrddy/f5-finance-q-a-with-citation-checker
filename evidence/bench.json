@@ -1,0 +1,8 @@
+{
+  "questions_evaluated": 50,
+  "citation_support_rate_before_filter": 0.5,
+  "unsupported_claims_caught": 25,
+  "retained_citation_support_rate": 1.0,
+  "retrieval_accuracy": 1.0,
+  "public_sec_facts": 188
+}
